@@ -1,0 +1,24 @@
+{
+  "items" : [
+    {
+      "name" : "Apple",
+      "priceGbp" : "1",
+      "weightKg" : "0.5"
+    },
+    {
+      "name" : "Banana",
+      "priceGbp" : "0.20",
+      "weightKg" : "0.2"
+    },
+    {
+      "name" : "Kiwi",
+      "priceGbp" : "0.50",
+      "weightKg" : "0.05"
+    },
+    {
+      "name" : "Turkey",
+      "priceGbp" : "6",
+      "weightKg" : "2"
+    }
+  ]
+}
